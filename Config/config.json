@@ -1,0 +1,23 @@
+{
+    "==================":"==========================================",
+    "Account Configuration": "# Your account ( Basic configuration )",
+    "====================":"========================================",
+
+    "token": "MTA0ODY5NDM1MTU5MDU4ODQxNg.Gx70pu.a7gXK9p1TaZhHg9lco-2h6_0Q5FHwXehSO3pDQ",
+    "prefix": ".",
+    "nitro_sniper": true,
+    
+    "================":"======================================",
+    "Streaming status": "# Streaming Status ( Configuration ) ",
+    "==============":"========================================",
+
+    "status_one": "twitter.com/190XP",
+    "status_two": "GitHub.com/lbeete",
+    "status_three": "<3",
+    "stream_url": "https://www.twitch.tv/omgbeete",
+    "stream_embed_image": "",
+
+    "===================":"========================================"
+
+
+}
